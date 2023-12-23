@@ -13,6 +13,5 @@ func Credentials() CredentialsType {
 	return CredentialsType{
 		"licence": "MIT",
 		"author":  "pkeorley",
-		"pkg":     "github.com/pkeorley/telegram-tui",
 	}
 }
